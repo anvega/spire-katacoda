@@ -62,7 +62,7 @@ the environment boots, then it's just a matter of debugging in the environment,
 however if (when) the environment doesn't even boot there can be very little
 feedback about what Katacoda doesn't like in the scenario.
 
-I found it helpful to run scenarios locally before even trying to run them
+ITs helpful to run scenarios locally before running them
 in Katacoda. Generally I start with the directory structure the way I want to
 see it on the target system and get commands/scripts running locally against
 either `k8s` or `docker-compose` as appropriate. Once I can run through the
